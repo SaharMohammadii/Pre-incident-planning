@@ -1,0 +1,92 @@
+{
+  "owner_name": "",
+  "renewal_code": "",
+  "fire_risk": "",
+  "incident_risk": "",
+  "permanant_residence": 0,
+  "temp_residence": 0,
+  "is_building_tall": false,
+  "width": 0.0,
+  "height": 0.0,
+  "length": 0.0,
+  "area": 0.0,
+  "access_problem": "",
+  "description": "",
+  "images": [
+    {
+      "image": "",
+      "description": ""
+    }
+  ],
+  "floors": [
+    {
+      "widgets": [
+        {
+            "name": "",
+            "icon": "",
+            "location": {
+                "lat": "",
+                "lang": "",
+                "alt": ""
+            },
+            "description": ""
+        }
+      ],
+      "order_of_floor": 0,
+      "width": 0.0,
+      "height": 0.0,
+      "images": [
+        {
+          "image": "",
+          "description": ""
+        }
+      ],
+      "equipments": [
+        {
+            "widgets": {
+                "name": "",
+                "icon": "",
+                "location": {
+                    "lat": "",
+                    "lang": "",
+                    "alt": ""
+                },
+                "description": ""
+            },
+            "status": ""
+        }
+      ],
+      "routes": [
+        {
+          "name": "",
+          "description": "",
+          "icon": "",
+          "location": {
+                "lat": "",
+                "lang": "",
+                "alt": ""
+            }
+        }
+      ],
+      "shape": [
+        {
+          "lat": "",
+          "lang": "",
+          "alt": ""
+        }
+      ]
+    }
+  ],
+  "routes": [
+        {
+          "name": "",
+          "description": "",
+          "icon": "",
+          "location": {
+                "lat": "",
+                "lang": "",
+                "alt": ""
+            }
+        }
+      ]
+}
