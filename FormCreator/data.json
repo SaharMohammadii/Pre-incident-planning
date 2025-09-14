@@ -1,0 +1,55 @@
+{
+    "id": 1,
+
+    "پلکان": {
+
+        
+        "items": [
+
+            {
+                "body": "فضای مناسب با متراژ طبقه",
+                "extra_description": ""
+            },
+            {
+                "body": "اجرای پله دوم اصولی از همکف تا پشت بام",
+                "extra_description": ""
+            }
+        ],
+        "sub_section 1": {
+            "items": [
+                {
+                    "body": "فضای مناسب با متراژ طبقه",
+                    "extra_description": ""
+                },
+                {
+                    "body": "فضای مناسب با متراژ طبقه",
+                    "extra_description": ""
+                }
+            ]
+        }
+    },
+    "section 2": {
+        "items": [
+            {
+                "body": "فضای مناسب با متراژ طبقه",
+                "extra_description": ""
+            },
+            {
+                "body": "اجرای پله دوم اصولی از همکف تا پشت بام",
+                "extra_description": ""
+            }
+        ],
+        "sub_section 2": {
+            "items": [
+                {
+                    "body": "فضای مناسب با متراژ طبقه",
+                    "extra_description": ""
+                },
+                {
+                    "body": "فضای مناسب با متراژ طبقه",
+                    "extra_description": ""
+                }
+            ]
+        }
+    }
+}
