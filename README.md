@@ -3,7 +3,7 @@
 
 # search location/address -> done
 
-# incdient/fire list -> done
+# incident/fire list -> done
 
 # patch fire sation -> done
 
